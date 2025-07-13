@@ -34,7 +34,7 @@ This was a group project that emphasized collaboration, version control, and sha
 
 Group Members include:
 - Dewdu Sendanayake - [@DewduSendanayake](https://github.com/DewduSendanayake)
-- Dewmini Nawodya - 
-- Uvindu Senevirtane
-- Dulhara Kaushalya
+- Dewmini Nawodya - [dewmininawodya26](https://github.com/dewmininawodya26)
+- Uvindu Senevirtane - [UVINDUSEN](https://github.com/UVINDUSEN)
+- Dulhara Kaushalya - [dulhara79](https://github.com/dulhara79)
 
