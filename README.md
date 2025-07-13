@@ -33,8 +33,8 @@ An end-to-end **Online Event Management System** built using **Java** and deploy
 This was a group project that emphasized collaboration, version control, and shared ownership. Each member contributed to both front-end and back-end components, displaying a well-rounded development experience.
 
 Group Members include:
-- Dewdu Sendanayake [@DewduSendanayake](https://github.com/DewduSendanayake)
-- Dewmini Nawodya
+- Dewdu Sendanayake - [@DewduSendanayake](https://github.com/DewduSendanayake)
+- Dewmini Nawodya - 
 - Uvindu Senevirtane
 - Dulhara Kaushalya
 
